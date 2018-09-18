@@ -1,91 +1,95 @@
-# Manifest
-
-Here is a draft for a self-describing methodology that may help people ending up on your Github profile to have a better understanding of who you are and maybe bring on the urge to get in touch with you! :-)
-
-In fact, bringing your 'true self' at work seems to be a goal for more and more of us and I'm confident that being able to do that would lead in more honnest and peaceful relationships and finally in a general well being.
-
-This methodology thus aims at describing who your true self is and let people know so that they have a better glimpse of who you are before they begin to work with you
-
-## Usage
-
-- Fork this repo
-- replace all sections of first `Work with me` section with your own stuff
-- remove the `Manifest` section
-- remove the `Side Notes` section
-- if you have another job you're in and you want to submit a template for, go ahead
-- if you want to add yourself to the list of users already using this methodology
-
-## Why did I create this
-
-## Users already using this methodology of presenting themselves
-
-- [Martin RATINAUD](https://github.com/martinratinaud/work-with-me)
-
-## Contribute
-
-You think we can make this methodology of describing ourselves on the web a lot better
-- reach me on twitter, skype, whatsapp
-- create an issue/discussion
-- submit a PR
-- share this repo on the web!
-
-## References
-- [The Art of Writing One-Sentence Product Descriptions](https://medium.dave-bailey.com/the-magic-formula-to-describe-a-product-in-one-sentence-175ce38619c7)
-- [Tell Me What You Read, And I’ll Tell You Who You Are](https://medium.com/personal-growth/tell-me-what-you-read-and-ill-tell-you-who-you-are-dbbe9d250b2e)
-- [Zapier remote office](https://zapier.com/learn/remote-work/remote-office-photos/)
-- [Reinventing organizations](https://www.youtube.com/watch?v=gcS04BI2sbk)
-- [Office Today](https://officetoday.wordpress.com/)
-- [Why and How to share your Manager README (plus here’s mine)](https://medium.com/@kawomersley/why-and-how-to-share-your-manager-readme-plus-heres-mine-8a4fe188ee1b)
-
 # Work with me
 
-Here is an attempt to describe who you are in a public area
+## One sentence to describe myself
 
-## One sentence
-
-It is a very difficult exercise to summarize a complex human being but this can help you focus on what really is the most important about you
+Happy, funny, full of ideas human who create web platforms and enjoy life
 
 ## Values
 
-As awesome companies like Buffer or Zapier states, values really describe what is the most important for you.
-And this is what people who will want to work with you may really care about
+- Transparency
+- Curiosity
+- Happiness
 
 ## Family
 
-Being single, married, divorced with 5 kids affects the way you live and handle things
-That's something that usually come up in an interview meeting and as such, belongs here
+Father of 2 girls
+
+Husband of 1 wife
+
+I apply kanban for my family life (weird but worth it)
 
 ## Personality
 
-This is one of the most difficult part, describe who you are to work with
-doer, ego/no-ego, need for acknowledgment,of your work, ...
-Well anything that would help the reader to know you better
+I love to experiment and I try to never read something great on the internet without trying it out soon after.
+
+I’m a **doer**, **autonomous** but feel I’m a lot better when paired up with somebody I can exchange my ideas on
+
+I can talk about anything to anybody without becoming emotional (and that has not always been the case :-)
+
+I automate everything I can
+
+I have a lot of ideas about building stuff, making the world better and I try to implement some of them
+
+I’m **happy** and to keep being that way, first thing we do in the morning with all my family is smile
+
+I love quotes and my favorite of all is by Coluche (a french humorist) and it sums up my mood noawadays
+
+> When you think it would only take for people to stop buying crap for people to stop selling it!
 
 ## Work environment
 
-Talk about your sweet spot, where you actually get work done
-As Zapier, you can share the optimal temperature of your office or your perfect
-At Automattic, you show where you work from https://officetoday.wordpress.com
+Work from 8am till 16am, usually short break at noon
+
+Mauritius timezone GMT +4
+
+Sometimes music, sometimes Noizio
+
+Not often in coffees
+
+Sometimes with friends that work remotely too
+
+Sometimes from where my kids have activities to share this with them
+
+I use `Inbox` for emails as it allows very simply to use GTD methodology  
+
+I use there https://there.pm to locate my coworkers
 
 ## The most exiting thing you've acomplished/lived
 
-Ice breaker
+- Scuba diving in the crystal clear water of [Silfra, Iceland](https://www.google.mu/search?q=silfra+iceland&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjAufTwg8XdAhUMxYUKHbkVA-4Q_AUIDigB&biw=1920&bih=1017)
 
 ## Hobbies
 
-One more thing you can find chemistry about
+- Surf
+- Life hacks
+- Permaculture
+- Aquaponics and more generally autonomy
 
 ## Readings
 
-Tell me what You read and I'll tell who who you are
-You can here write down
-- your favorite book
-- your current book
-- one book that changed your life
+Favorite book
+- the dark tower: Stephen King
+
+Book that changed my life
+- How to win friends and influence people by Dale Carnegie
+
+Source of inspiration
+- Buffer open blog
+- Medium daily email
+
+Current books:
+- The bible of essential oils
+- Zapier remote
+- Maxime Chattam
 
 ## Social media activity
 
-Here you can tell if you share every part of your life or if you share fewer things or not at all
+I'm not a big fan of social media and want (but do not manage yet) to quit Facebook
+
+I use mainly Buffer to share my exciting findings on the internet on Twitter and LinkedIn
+
+I’m not a gif user but I work on it and even introduced giphy in our slack channel !
+
 
 ## Jobs I can do
 
@@ -93,10 +97,9 @@ Here you can tell if you share every part of your life or if you share fewer thi
 - [Backend developer](./backend-developer.md)
 - [Product owner](./product-owner.md)
 - [Team leader/Manager](./team-leader-manager.md)
-- Create your own...
 
 ## Find me on the web
-- [LinkedIn](https://fr.linkedin.com/in/xxxx)
-- [Github](https://www.github.com/xxxx)
-- [Twitter](https://www.twitter.com/xxxx)
-- and more ...
+- [LinkedIn](https://fr.linkedin.com/in/martinratinaud)
+- [Github](https://www.github.com/martinratinaud)
+- [Twitter](https://www.twitter.com/martinratinaud)
+- [Pikilabs (Old stuff)](http://www.pikilabs.com/fr/)
