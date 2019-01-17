@@ -16,7 +16,7 @@ Father of 2 girls
 
 Husband of 1 wife
 
-I apply kanban for my family life (weird but worth it)
+I apply kanban for my family life (weird but worth it :-))
 
 ## Personality
 
@@ -50,7 +50,7 @@ Sometimes with friends that work remotely too
 
 Sometimes from where my kids have activities to share this with them
 
-I use `Inbox` for emails as it allows very simply to use GTD methodology  
+I use `Gmail` for emails as it allows very simply to use GTD methodology  
 
 I use there https://there.pm to locate my coworkers
 
@@ -70,17 +70,21 @@ I use there https://there.pm to locate my coworkers
 Favorite book
 - the dark tower: Stephen King
 
+Favorite author
+- Maxime Chattam
+
 Book that changed my life
 - How to win friends and influence people by Dale Carnegie
 
 Source of inspiration
-- Buffer open blog
+- [Buffer open blog](https://open.buffer.com/)
 - Medium daily email
+- Twitter!
 
 Current books:
 - The bible of essential oils
 - Zapier remote
-- Maxime Chattam
+- [Sapiens](https://fr.wikipedia.org/wiki/Sapiens_:_Une_br%C3%A8ve_histoire_de_l%27humanit%C3%A9)
 
 ## Social media activity
 
