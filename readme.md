@@ -78,6 +78,7 @@ Book that changed my life
 
 Source of inspiration
 - [Buffer open blog](https://open.buffer.com/)
+- [Reinventing organizations](https://youtu.be/gcS04BI2sbk) (find the book [here](https://amzn.to/2Mh8Cjx))
 - Medium daily email
 - Twitter!
 
