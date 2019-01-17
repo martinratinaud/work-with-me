@@ -90,7 +90,6 @@ I use mainly Buffer to share my exciting findings on the internet on Twitter and
 
 I’m not a gif user but I work on it and even introduced giphy in our slack channel !
 
-
 ## Jobs I can do
 
 - [Frontend developer](./frontend-developer.md)
@@ -100,6 +99,13 @@ I’m not a gif user but I work on it and even introduced giphy in our slack cha
 
 ## Find me on the web
 - [LinkedIn](https://fr.linkedin.com/in/martinratinaud)
+- [Medium](https://medium.com/@martinratinaud)
 - [Github](https://www.github.com/martinratinaud)
 - [Twitter](https://www.twitter.com/martinratinaud)
 - [Pikilabs (Old stuff)](http://www.pikilabs.com/fr/)
+
+## Sites I've done and work on
+- [AIP.trade](http://www.aiptrade.com)
+- [Artistco](http://www.artistco.com)
+
+> Good Idea, [I want to join the movement and make up mine](https://github.com/better-human/work-with-me-template)
