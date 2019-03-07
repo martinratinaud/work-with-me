@@ -83,9 +83,11 @@ Source of inspiration
 - Twitter!
 
 Current books:
-- The bible of essential oils
-- Zapier remote
-- [Sapiens](https://fr.wikipedia.org/wiki/Sapiens_:_Une_br%C3%A8ve_histoire_de_l%27humanit%C3%A9)
+- Maxime Chattam - Autre monde [Le coeur de la Terre](https://amzn.to/2ET4PXs)
+- [The Subtle Art of Not Giving a F*ck](https://amzn.to/2XL8UEv)
+- ~[The bible of essential oils](https://amzn.to/2H2WkLX)~
+- ~[Sapiens](https://amzn.to/2UoEHsV)~
+- ~Zapier remote~
 
 ## Social media activity
 
