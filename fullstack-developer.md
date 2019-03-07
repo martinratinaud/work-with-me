@@ -21,7 +21,7 @@ I love `microservices` architecture and @AIP.trade, we implemented this approach
 ## Frontend
 
 I have played with jQuery during 7 years but this is now far away
-I use now mostly use `React` and `styled-components` with a shared library of components easily accesible thanks to `storybook` and `netlify`.
+I now mostly use `React` and `styled-components` with a shared library of components easily accesible thanks to `storybook` and `netlify`.
 
 ## Coding style
 

@@ -100,7 +100,7 @@ I’m not a gif user but I work on it and even introduced giphy in our slack cha
 - [Frontend developer](./frontend-developer.md)
 - [Backend developer](./backend-developer.md)
 - [Product owner](./product-owner.md)
-- [Team leader/Manager](./team-leader-manager.md)
+- [Team leader/Manager](./engineering-manager.md)
 
 ## Find me on the web
 - [LinkedIn](https://fr.linkedin.com/in/martinratinaud)
