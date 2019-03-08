@@ -1,4 +1,4 @@
-# Fullstack Developer
+# Backend Developer
 
 Manager of one and team player
 
@@ -17,11 +17,6 @@ A lot of bash scripts
 
 I have worked 7 years on Symfony but I'm now more of a NodeJs guy
 I love `microservices` architecture and @AIP.trade, we implemented this approach using `gRPC` and `graphQL`, you can find the relative medium article [here](https://medium.com/@svengau_17540/when-graphql-meets-grpc-3e9729d32e05)
-
-## Frontend
-
-I have played with jQuery during 7 years but this is now far away
-I now mostly use `React` and `styled-components` with a shared library of components easily accesible thanks to `storybook` and `netlify`.
 
 ## Coding style
 
