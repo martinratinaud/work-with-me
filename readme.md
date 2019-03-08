@@ -115,4 +115,8 @@ I’m not a gif user but I work on it and even introduced giphy in our slack cha
 - [AIP.trade](http://www.aiptrade.com)
 - [Artistco](http://www.artistco.com)
 
+## Resume
+
+If you prefer this format [Here is my resume](./resume-martin-ratinaud.pdf)
+
 > Good Idea, [I want to join the movement and make up mine](https://github.com/better-human/work-with-me-template)
