@@ -119,4 +119,6 @@ I’m not a gif user but I work on it and even introduced giphy in our slack cha
 
 If you prefer this format [Here is my resume](./resume-martin-ratinaud.pdf)
 
+# Bonus
+
 > Good Idea, [I want to join the movement and make up mine](https://github.com/better-human/work-with-me-template)
