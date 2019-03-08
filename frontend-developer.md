@@ -20,3 +20,7 @@ I use now mostly React and styled-components with a shared library of components
 - I usually name my commits in a way that `If applied, this commit will …` in order to always have the same kind of sentence
 - I early exit
 - shared eslint on all micorservices
+
+## Next
+
+I think I will try to use Gatsby for my later projects as I find this technology incredibly smart.
