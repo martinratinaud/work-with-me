@@ -4,9 +4,9 @@ Manager of one and team player
 
 ## Process
 
-Git flow that we arrange based on the team needs
-Systematic code review
-A lot of git alias
+- Git flow that we arrange based on the team needs
+- Systematic code review
+- A lot of git alias
 
 ## DevOps
 
