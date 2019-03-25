@@ -83,8 +83,11 @@ Source of inspiration
 - Twitter!
 
 Current books:
-- Maxime Chattam - Autre monde [Le coeur de la Terre](https://amzn.to/2ET4PXs)
-- [The Subtle Art of Not Giving a F*ck](https://amzn.to/2XL8UEv)
+- Patrick Lencioni - [The five dysfunctions of a team](https://amzn.to/2WgziEW)
+- Maxime Chattam - Autre monde [Entropia](https://amzn.to/2JBxkgQ)
+- ~Camille Fournier - [The manager's path](https://amzn.to/2Wq89iZ)~
+- ~Maxime Chattam - Autre monde [Le coeur de la Terre](https://amzn.to/2ET4PXs)~
+- ~[The Subtle Art of Not Giving a F*ck](https://amzn.to/2XL8UEv)~
 - ~[The bible of essential oils](https://amzn.to/2H2WkLX)~
 - ~[Sapiens](https://amzn.to/2UoEHsV)~
 - ~Zapier remote~
