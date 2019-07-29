@@ -2,11 +2,11 @@
 
 ## One sentence to describe myself
 
-Happy, funny, full of ideas human who create web platforms and enjoy life
+Happy-funny-full of ideas-human who create web platforms and enjoy life
 
 ## Values
 
-- Transparency
+- Transparency / Honesty
 - Curiosity
 - Happiness
 
@@ -68,13 +68,13 @@ I use there https://there.pm to locate my coworkers
 ## Readings
 
 Favorite book
-- the dark tower: Stephen King
+- The dark tower: Stephen King
 
 Favorite author
 - Maxime Chattam
 
 Book that changed my life
-- How to win friends and influence people by Dale Carnegie
+- "How to win friends and influence people" by Dale Carnegie
 
 Source of inspiration
 - [Buffer open blog](https://open.buffer.com/)
@@ -82,15 +82,18 @@ Source of inspiration
 - Medium daily email
 - Twitter!
 
-Current books:
+Current books for personal growth:
 - Patrick Lencioni - [The five dysfunctions of a team](https://amzn.to/2WgziEW)
-- Maxime Chattam - Autre monde [Entropia](https://amzn.to/2JBxkgQ)
 - ~Camille Fournier - [The manager's path](https://amzn.to/2Wq89iZ)~
-- ~Maxime Chattam - Autre monde [Le coeur de la Terre](https://amzn.to/2ET4PXs)~
 - ~[The Subtle Art of Not Giving a F*ck](https://amzn.to/2XL8UEv)~
+- ~Zapier remote~
+
+Current books for fun:
+- Alexandre Dumas - Le comte de Monte-Cristo (<- try it, it's amazing!)
+- ~Maxime Chattam - Autre monde [Entropia](https://amzn.to/2JBxkgQ)~
+- ~Maxime Chattam - Autre monde [Le coeur de la Terre](https://amzn.to/2ET4PXs)~
 - ~[The bible of essential oils](https://amzn.to/2H2WkLX)~
 - ~[Sapiens](https://amzn.to/2UoEHsV)~
-- ~Zapier remote~
 
 ## Social media activity
 
@@ -115,6 +118,7 @@ I’m not a gif user but I work on it and even introduced giphy in our slack cha
 - [Pikilabs (Old stuff)](http://www.pikilabs.com/fr/)
 
 ## Sites I've done and work on
+- [Reclouder](http://www.reclouder.com)
 - [AIP.trade](http://www.aiptrade.com)
 - [Artistco](http://www.artistco.com)
 
@@ -124,4 +128,4 @@ If you prefer this format [Here is my resume](./resume-martin-ratinaud.pdf)
 
 # Bonus
 
-> Good Idea, [I want to join the movement and make up mine](https://github.com/better-human/work-with-me-template)
+> Good Idea, [I want to join the movement and make up my own README](https://github.com/better-human/work-with-me-template)
