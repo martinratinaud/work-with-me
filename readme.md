@@ -115,6 +115,8 @@ I mainly use Buffer to share my exciting findings on the internet on Twitter and
 
 I use gif!
 
+![Awesome](https://media.giphy.com/media/2Vp0UxNcA8TEQ/giphy.gif)
+
 ## Jobs I can do
 
 - [Engineering Manager / Team Leader](./engineering-manager.md)
@@ -144,3 +146,8 @@ If you prefer this format [Here is my resume](./resume-martin-ratinaud.pdf)
 # Bonus
 
 > Good Idea, [I want to join the movement and make up my own README](https://github.com/better-human/work-with-me-template)
+
+# So what now
+
+Woha, you made it that far! Thanks a lot for your interest, so what now? Should we work together?
+![Work with me](https://media.giphy.com/media/HnnKLPMqsO12g/giphy.gif)
