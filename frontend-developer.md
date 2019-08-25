@@ -19,14 +19,15 @@ My IDE is atom
 I love
 
 - React
-- typescript
+- Typescript
 
 ## Coding style
 
-- 2 spaces indent
+- 2 spaces indent -> but will switch to tabs -> [see why](https://dev.to/alexandersandberg/why-we-should-default-to-tabs-instead-of-spaces-for-an-accessible-first-environment-101f)
 - I usually name my commits in a way that `If applied, this commit will …` in order to always have the same kind of sentence
+- and I use this convention: [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 - I early exit
-- shared eslint/tslint on all micorservices
+- shared eslint/tslint on all microservices
 
 ## Next
 

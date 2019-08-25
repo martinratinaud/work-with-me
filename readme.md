@@ -2,13 +2,23 @@
 
 ## One sentence to describe myself
 
-Happy-funny-full of ideas-human who creates web platforms and enjoy life
+Happy-funny-full of ideas-human who creates web platforms and enjoy life every day.
+
+(and who sometimes create cheesy self describing methodology you should love! :-))
 
 ## Values
 
 - Transparency / Honesty
+> Whoever is careless with the truth in small matters cannot be trusted with important matters
+> - Albert Einstein
+
 - Curiosity
+> We keep moving forward, opening new doors and doing new things, because we're curious,and curiosity keeps leading us down new paths.
+> - Walt Disney
+
 - Happiness
+> I've decided to be happy because it's good for my health.
+> - Voltaire
 
 ## Family
 
@@ -18,41 +28,43 @@ Husband of 1 wife
 
 I apply kanban to my family life (weird but worth it :-))
 
+
 ## Personality
 
 Love to experiment and I try to never read something great on the internet without trying it out soon after.
 
-I’m a **doer**, **autonomous** but feel I’m a lot better when paired up with somebody I can exchange my ideas with
+I’m a **doer**, **autonomous** but feel I’m a lot better when paired up with somebody I can exchange my ideas with.
 
-I can talk to anyone about anything without being emotional (and that has not always been the case :-)
+I can talk to anyone about anything without being emotional (and that has not always been the case :-).
 
-I automate everything I can
+I automate everything I can.
 
-I have a lot of ideas about building stuff, making the world better and I try to implement some of them
+I have a lot of ideas about building stuff, making the world better and I try to implement some of them.
 
-I’m **happy** and to stay this way, the first thing we do in the morning with all my family is smile
+I’m **happy** and to stay this way, the first thing we do in the morning with all my family is smile.
 
-I love quotes and my favorite of all is by Coluche (a french humorist) and it sums up my mood nowadays
+I love quotes and my favorite of all is by Coluche (a french humorist) and it sums up my mood today
 
 > When you think it would only take for people to stop buying crap for people to stop selling it!
+> - Coluche
 
 ## Work environment
 
-Work from 8am till 4pm, usually short break at noon
+Work from 8am till 4pm, usually short break at noon.
 
-Mauritius timezone GMT +4 (London +3, New York +8, San Francisco +11)
+Mauritius timezone GMT +4 (London +3, New York +8, San Francisco +11).
 
-Sometimes music, sometimes Noizio
+Sometimes music, sometimes Noizio.
 
-Not often in coffee shops
+Not often in coffee shops.
 
-Sometimes with friends that work remotely too
+Sometimes with friends that work remotely too.
 
-Sometimes from where my kids have activities to share this with them
+Sometimes from where my kids have activities to share this with them.
 
 I use `Gmail` for emails as it allows very simply to use GTD methodology  
 
-I use there https://there.pm to locate my coworkers
+I use there https://there.pm to locate my coworkers and know when I can ping them.
 
 ## The most exciting thing you've accomplished/lived
 
@@ -63,7 +75,7 @@ I use there https://there.pm to locate my coworkers
 - Surf
 - Life hacks
 - Permaculture
-- Aquaponics and more generally autonomy
+- Aquaponics and more generally self-sufficiency
 
 ## Readings
 
@@ -89,7 +101,7 @@ Current books for personal growth:
 - ~Zapier remote~
 
 Current books for fun:
-- Alexandre Dumas - Le comte de Monte-Cristo (<- try it, it's amazing!)
+- ~Alexandre Dumas - Le comte de Monte-Cristo~ (<- try it, it's amazing!)
 - ~Maxime Chattam - Autre monde [Entropia](https://amzn.to/2JBxkgQ)~
 - ~Maxime Chattam - Autre monde [Le coeur de la Terre](https://amzn.to/2ET4PXs)~
 - ~[The bible of essential oils](https://amzn.to/2H2WkLX)~
@@ -101,7 +113,7 @@ I'm not a big fan of social media and want (but do not manage yet) to quit Faceb
 
 I mainly use Buffer to share my exciting findings on the internet on Twitter and LinkedIn
 
-I’m not a gif user but I'm working on it and even introduced giphy in our slack channel!
+I use gif!
 
 ## Jobs I can do
 
@@ -115,12 +127,15 @@ I’m not a gif user but I'm working on it and even introduced giphy in our slac
 - [Medium](https://medium.com/@martinratinaud)
 - [Github](https://www.github.com/martinratinaud)
 - [Twitter](https://www.twitter.com/martinratinaud)
-- [Pikilabs (Old stuff)](http://www.pikilabs.com/fr/)
 
 ## Sites I've done and work on
-- [Reclouder](http://www.reclouder.com)
-- [AIP.trade](http://www.aiptrade.com)
-- [Artistco](http://www.artistco.com)
+- [Reclouder](https://www.reclouder.com) You personal hybrid recorder.
+- [AIP.trade](https://www.aiptrade.com) Premier music exchange for trading royalty shares
+- [Artistco](https://www.artistco.com) Community-fueled streaming and social platform that helps artists earn fair revenue from their creation
+
+## Side project
+- [Remote Family](https://spot.remote-family.com)
+- [Pikilabs (Old stuff)](http://www.pikilabs.com/fr/)
 
 ## Resume
 
