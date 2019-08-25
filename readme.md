@@ -4,7 +4,7 @@
 
 Happy-funny-full of ideas-human who creates web platforms and enjoy life every day.
 
-(and who sometimes create cheesy self describing methodology you should love! :-))
+*and who sometimes create cheesy self describing methodology you should love! :-)*
 
 ## Values
 
