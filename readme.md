@@ -135,8 +135,9 @@ I use gif!
 - [AIP.trade](https://www.aiptrade.com) Premier music exchange for trading royalty shares
 - [Artistco](https://www.artistco.com) Community-fueled streaming and social platform that helps artists earn fair revenue from their creation
 
-## Side project
+## Side projects
 - [Remote Family](https://spot.remote-family.com) Find your sweet spot for your next holidays or your remote life
+- [Self describing methodology](https://github.com/better-human/work-with-me-template) Well, I created the methodology behind this readme :-)
 - [Kilodays](http://www.pikilabs.com/en/journiversaire/) It may be your 10,000th day today and you did not even know!
 - [Red sea fishes](http://www.pikilabs.com/en/poissons-mer-rouge/) Find the fishes you met during your dive or snorkeling in the Red Sea, no WIFI needed!
 
