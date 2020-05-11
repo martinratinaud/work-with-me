@@ -4,21 +4,26 @@
 
 Happy-funny-full of ideas-human who creates web platforms and enjoy life every day.
 
-*and who sometimes create cheesy self describing methodology you should love! :-)*
+_and who sometimes create cheesy self describing methodology you should love! :-)_
 
 ## Values
 
 - Transparency / Honesty
-> Whoever is careless with the truth in small matters cannot be trusted with important matters
-> - Albert Einstein
+
+  > Whoever is careless with the truth in small matters cannot be trusted with important matters
+  >
+  > - Albert Einstein
 
 - Curiosity
-> We keep moving forward, opening new doors and doing new things, because we're curious,and curiosity keeps leading us down new paths.
-> - Walt Disney
+
+  > We keep moving forward, opening new doors and doing new things, because we're curious,and curiosity keeps leading us down new paths.
+  >
+  > - Walt Disney
 
 - Happiness
-> I've decided to be happy because it's good for my health.
-> - Voltaire
+  > I've decided to be happy because it's good for my health.
+  >
+  > - Voltaire
 
 ## Family
 
@@ -27,7 +32,6 @@ Father of 2 girls
 Husband of 1 wife
 
 I apply kanban to my family life (weird but worth it :-))
-
 
 ## Personality
 
@@ -46,6 +50,7 @@ I’m **happy** and to stay this way, the first thing we do in the morning with 
 I love quotes and my favorite of all is by Coluche (a french humorist) and it sums up my mood today
 
 > When you think it would only take for people to stop buying crap for people to stop selling it!
+>
 > - Coluche
 
 ## Work environment
@@ -62,7 +67,7 @@ Sometimes with friends that work remotely too.
 
 Sometimes from where my kids have activities to share this with them.
 
-I use `Gmail` for emails as it allows very simply to use GTD methodology  
+I use `Gmail` for emails as it allows very simply to use GTD methodology
 
 I use there https://there.pm to locate my coworkers and know when I can ping them.
 
@@ -80,27 +85,35 @@ I use there https://there.pm to locate my coworkers and know when I can ping the
 ## Readings
 
 Favorite book
+
 - The dark tower: Stephen King
 
 Favorite author
+
 - Maxime Chattam
 
 Book that changed my life
+
 - "How to win friends and influence people" by Dale Carnegie
 
 Source of inspiration
+
 - [Buffer open blog](https://open.buffer.com/)
 - [Reinventing organizations](https://youtu.be/gcS04BI2sbk) (find the book [here](https://amzn.to/2Mh8Cjx))
 - Medium daily email
 - Twitter!
 
 Current books for personal growth:
-- Patrick Lencioni - [The five dysfunctions of a team](https://amzn.to/2WgziEW)
+
+- Nir Eyal - [Hooked](https://www.amazon.fr/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)~
+- ~Patrick Lencioni - [The five dysfunctions of a team](https://amzn.to/2WgziEW)~
 - ~Camille Fournier - [The manager's path](https://amzn.to/2Wq89iZ)~
-- ~[The Subtle Art of Not Giving a F*ck](https://amzn.to/2XL8UEv)~
+- ~[The Subtle Art of Not Giving a F\*ck](https://amzn.to/2XL8UEv)~
 - ~Zapier remote~
 
 Current books for fun:
+
+- [Fils des brumes](https://fr.wikipedia.org/wiki/Fils-des-brumes)
 - ~Alexandre Dumas - Le comte de Monte-Cristo~ (<- try it, it's amazing!)
 - ~Maxime Chattam - Autre monde [Entropia](https://amzn.to/2JBxkgQ)~
 - ~Maxime Chattam - Autre monde [Le coeur de la Terre](https://amzn.to/2ET4PXs)~
@@ -125,18 +138,23 @@ I use gif!
 - [Backend developer](./backend-developer.md)
 
 ## Find me on the web
+
 - [LinkedIn](https://fr.linkedin.com/in/martinratinaud)
 - [Medium](https://medium.com/@martinratinaud)
 - [Github](https://www.github.com/martinratinaud)
 - [Twitter](https://www.twitter.com/martinratinaud)
 
 ## Sites I've done and work on
+
+- [EditYourAudio](https://www.edityouraudio.com) Karaoke generator and vocal remover.
 - [Reclouder](https://www.reclouder.com) You personal hybrid recorder.
 - [AIP.trade](https://www.aiptrade.com) Premier music exchange for trading royalty shares
 - [Artistco](https://www.artistco.com) Community-fueled streaming and social platform that helps artists earn fair revenue from their creation
 
 ## Side projects
-- [Remote Family](https://spot.remote-family.com) Find your sweet spot for your next holidays or your remote life
+
+- [myRemoteSchool](https://myremoteschool.com) Online classes that works for children
+- [Remote Family](https://www.remote-family.com) Find your sweet spot for your next holidays or your remote life
 - [Self describing methodology](https://github.com/better-human/work-with-me-template) Well, I created the methodology behind this readme :-)
 - [Kilodays](http://www.pikilabs.com/en/journiversaire/) It may be your 10,000th day today and you did not even know!
 - [Red sea fishes](http://www.pikilabs.com/en/poissons-mer-rouge/) Find the fishes you met during your dive or snorkeling in the Red Sea, no WIFI needed!
