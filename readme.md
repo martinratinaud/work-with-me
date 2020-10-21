@@ -105,6 +105,7 @@ Source of inspiration
 
 Current books for personal growth:
 
+- Will Bowen - [A complaint free world](https://www.willbowen.com/complaintfree/)
 - Nir Eyal - [Hooked](https://www.amazon.fr/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)~
 - ~Patrick Lencioni - [The five dysfunctions of a team](https://amzn.to/2WgziEW)~
 - ~Camille Fournier - [The manager's path](https://amzn.to/2Wq89iZ)~
@@ -113,7 +114,8 @@ Current books for personal growth:
 
 Current books for fun:
 
-- [Fils des brumes](https://fr.wikipedia.org/wiki/Fils-des-brumes)
+- Maxime Chattam - [La patience du diable](https://b-ok.africa/book/3816523/7a44be)
+- ~[Fils des brumes](https://fr.wikipedia.org/wiki/Fils-des-brumes)~
 - ~Alexandre Dumas - Le comte de Monte-Cristo~ (<- try it, it's amazing!)
 - ~Maxime Chattam - Autre monde [Entropia](https://amzn.to/2JBxkgQ)~
 - ~Maxime Chattam - Autre monde [Le coeur de la Terre](https://amzn.to/2ET4PXs)~
