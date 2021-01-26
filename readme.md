@@ -2,7 +2,7 @@
 
 ## One sentence to describe myself
 
-Happy-funny-full of ideas-human who creates web platforms and enjoy life every day.
+Happy, funny, full-of-ideas human who creates web platforms from 🇲🇺 Mauritius and **enjoy life** every day.
 
 _and who sometimes create cheesy self describing methodology you should love! :-)_
 
@@ -105,8 +105,8 @@ Source of inspiration
 
 Current books for personal growth:
 
-- Will Bowen - [A complaint free world](https://www.willbowen.com/complaintfree/)
 - Nir Eyal - [Hooked](https://www.amazon.fr/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)~
+- ~Will Bowen - [A complaint free world](https://www.willbowen.com/complaintfree/)~
 - ~Patrick Lencioni - [The five dysfunctions of a team](https://amzn.to/2WgziEW)~
 - ~Camille Fournier - [The manager's path](https://amzn.to/2Wq89iZ)~
 - ~[The Subtle Art of Not Giving a F\*ck](https://amzn.to/2XL8UEv)~
@@ -114,7 +114,9 @@ Current books for personal growth:
 
 Current books for fun:
 
-- Maxime Chattam - [La patience du diable](https://b-ok.africa/book/3816523/7a44be)
+- Robert Louis Stevenson - [L'île au trésor](https://b-ok.africa/book/4111408/031ae3)
+- ~Jules Verne - [Le tour du monde en 80 jours](https://b-ok.africa/book/4344150/cf5d0d)~
+- ~Maxime Chattam - [La patience du diable](https://b-ok.africa/book/3816523/7a44be)~
 - ~[Fils des brumes](https://fr.wikipedia.org/wiki/Fils-des-brumes)~
 - ~Alexandre Dumas - Le comte de Monte-Cristo~ (<- try it, it's amazing!)
 - ~Maxime Chattam - Autre monde [Entropia](https://amzn.to/2JBxkgQ)~
@@ -141,6 +143,7 @@ I use gif!
 
 ## Find me on the web
 
+- [IndieHackers](https://www.indiehackers.com/martinratinaud)
 - [LinkedIn](https://fr.linkedin.com/in/martinratinaud)
 - [Medium](https://medium.com/@martinratinaud)
 - [Github](https://www.github.com/martinratinaud)
@@ -155,11 +158,13 @@ I use gif!
 
 ## Side projects
 
+- [Sort your Paper](https://www.indiehackers.com/product/sort-your-paper) `Electron app` that sorts your paper using AI
+- [Short Song Streaming](http://bit.ly/short-song-streaming) `Chrome extension` that skips the song after X seconds
 - [myRemoteSchool](https://myremoteschool.com) Online classes that works for children
 - [Remote Family](https://www.remote-family.com) Find your sweet spot for your next holidays or your remote life
 - [Self describing methodology](https://github.com/better-human/work-with-me-template) Well, I created the methodology behind this readme :-)
-- [Kilodays](http://www.pikilabs.com/en/journiversaire/) It may be your 10,000th day today and you did not even know!
-- [Red sea fishes](http://www.pikilabs.com/en/poissons-mer-rouge/) Find the fishes you met during your dive or snorkeling in the Red Sea, no WIFI needed!
+- ~[Kilodays](http://www.pikilabs.com/en/journiversaire/) It may be your 10,000th day today and you did not even know!~
+- ~[Red sea fishes](http://www.pikilabs.com/en/poissons-mer-rouge/) Find the fishes you met during your dive or snorkeling in the Red Sea, no WIFI needed!~
 
 ## Resume
 
